@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegendaryInsights", "LegendaryInsights.csproj", "{0CD30F60-1293-4FBC-B8A7-18E1DA3182D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD30F60-1293-4FBC-B8A7-18E1DA3182D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD30F60-1293-4FBC-B8A7-18E1DA3182D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD30F60-1293-4FBC-B8A7-18E1DA3182D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD30F60-1293-4FBC-B8A7-18E1DA3182D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58BFB9FF-7A10-4783-89EE-1F78328F1795}
+	EndGlobalSection
+EndGlobal
